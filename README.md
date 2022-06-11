@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://twitter.com/seanmamasde/" target="blank"><img align="center" src="./assets/icons8-twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/seanmamsde/" target="blank"><img align="center" src="./assets/icons8-instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/seanmamasde/" target="blank"><img align="center" src="./assets/icons8-instagram.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="./assets/icons8-reddit.svg" alt="" height="30" width="40" /></a>
 <a href="https://github.com/seanmamasde" target="blank"><img align="center" src="./assets/icons8-github.svg" alt="" height="30" width="40" /></a>
 </p>
