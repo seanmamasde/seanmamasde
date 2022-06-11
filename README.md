@@ -1,19 +1,22 @@
 # Hi there 👋
 
-## This repository is still under active constructing
+## This repository is still under active constructing 🚧👷‍♂️🏗️
 
 ## What am I doing right now?
 
-- nothing
-- tryna hold my 💩 together
+- nothing 🤔
+- tryna hold my 💩 together past this freshman year 🤓
 
 ## What do I planning to do next?
 
-- Build a personal website
-- Create a blog (actually actively submitting posts)
-- Learn more languages, like Japanese, JavaScript, etc.
+- Build a personal website 💻
+- Create a blog (actually actively submitting posts) ✒️
+- Learn more languages, like Japanese, JavaScript, etc. 📜
+
+## Fancy Zone 🤩
 
 ### DashBoard
+
 <!--GitHub Stats card: show private repos, show icons-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmamasde&show_icons=true&count_private=true&theme=city_lights)
 
