@@ -1,15 +1,9 @@
 # Hi there 👋
 
-<!--GitHub Stats card-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmamasde)](https://github.com/anuraghazra/github-readme-stats)
+<!--GitHub Stats card: show private repos, show icons-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmamasde&show_icons=true&count_private=true)
 
-<!--Adding private contributions count to total commits count-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmamasde&count_private=true)
-
-<!--Showing Icons-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanmamasde&show_icons=true)
-
-<!--Top Languages-->
+<!--Top Languages: compact layout-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmamasde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
