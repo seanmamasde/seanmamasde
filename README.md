@@ -23,8 +23,7 @@
 <!--Top Languages: compact layout-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmamasde&layout=compact&langs_count=8&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contact Me On...
-
+### Contact Me On
 
 <p align="left">
 <a href="https://twitter.com/seanmamasde/" target="blank"><img align="center" src="./assets/icons8-twitter.svg" alt="" height="30" width="40" /></a>
